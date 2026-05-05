@@ -41,7 +41,6 @@ This project helped me better understand responsive design and the 'box-shadow' 
 ### Continued development
 
 I want to continue improving my skills in :
-  - CSS Grid
   - CSS animations
   - Creating more complex responsive layouts
 
